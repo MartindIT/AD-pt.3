@@ -13,6 +13,7 @@ This Video Project shows my steps used when Creating Policies Inside a Domain us
 
 **[YOUTUBE LINK](https://youtu.be/R2FKHZOf_lY)**
 
+https://www.youtube.com/watch?v=R2FKHZOf_lY&list=PLrbMZfjq8xh0PR_X6Odkw6mfiRb8m3M3c&index=3
 
 <h2>Environments and Technologies Used</h2>
 
